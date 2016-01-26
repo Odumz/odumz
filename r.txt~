@@ -1,0 +1,21 @@
+.about-right-grid img{
+	width:100%;
+}
+.about-right-grid img {
+	    width: 48%;
+	    float: left;
+	}
+.about-right-grid img {
+	    width: 48%;
+	    float: left;
+	}
+.about-right-grid img {
+	    width: 100%;
+	    float: none;
+	    margin-top: 16px;
+	}
+.about-right-grid {
+	    padding: 0;
+        float: right;
+        max-width: 48%;
+	}

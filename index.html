@@ -9,6 +9,8 @@
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/css/libraries/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/libraries/rs-plugin/css/settings.css" media="screen, projection">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!--fonts-->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -35,7 +37,7 @@
 	<div class="header">
 		<div class="container">
 				<div class="logo">
-					<a href="#"><h1>Odumz</h1></a>
+					<a href="#home"><h1>Odumz</h1></a>
 				</div>
 		<div class="navigation">
 			<nav class="navbar navbar-default">
@@ -61,10 +63,6 @@
 			</div><!-- /.navbar-collapse -->
 		</nav>
 	</div>
-	<div class="search-bar">
-			<input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
-			<input type="submit" value="">
-	   </div>
 	<div class="clearfix"> </div>
 	</div>
 </div>
@@ -91,13 +89,35 @@
 				<!-- about-grids -->
 				<div class="about-grids">
 					<div class="col-md-6 about-left-grid">
-						<h3>Videntur Parum</h3>
-						<span>Graphic Designer,UI/UX Expert </span>
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla fam.</p>
-						<p class="p-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sit amet purus ipsum. In ante leo, elementum at placerat in, aliquet non lectus. Nam imperdiet magna eu faucibus cursus.</p>
+						<h3>Odumosu Oluwashina</h3>
+						<span>UI/UX Developer, Software Developer</span>
+						<p>Hi, I'm Odumosu Oluwashina, a versatile, hands on developer who loves solving problems. Conversant in a range of technologies - most notably HTML, PHP and .NET as well as a good team player. My approach is methodical yet creative, and I seek to code to the highest possible standard. This is my design portfolio where all of my favorite works are shared.</p>
+						<p class="p-text">When I'm not building things, I'm either playing video games, watching movies or exercising.</p>
 					</div>
 					<div class="col-md-6 about-right-grid">
-						<a class="popup-with-zoom-anim" href="#small-dialog"><img src="images/video.jpg" title="Designer_girl"></a>
+						<div class="bottom-grid">
+					           <h3>Education</h3>
+					           <div class="grids">
+						          <div class="year text-center">
+							         <h5>2015</h5>
+						          </div>
+						          <div class="qualification">
+                                    <h4>Bachelor of Science, Computer Engineering</h4>
+							         <p>Obafemi Awolowo University</p>
+						          </div>
+						          <div class="clearfix"> </div>
+					           </div>
+					           <div class="grids">
+						          <div class="year text-center">
+							         <h5>2009</h5>
+						          </div>
+						          <div class="qualification">
+							         <h4>Senior Secondary School Leaving Certificate</h4>
+							         <p>Engreg International School</p>
+						          </div>
+						          <div class="clearfix"> </div>
+					           </div>
+				            </div>
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -105,84 +125,7 @@
 			</div>
 			<div class="clearfix"> </div>
 		</div>
-		<!---pop-up-box---->
-				<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
-				<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
-				<!---//pop-up-box---->
-				<div id="small-dialog" class="mfp-hide">
-					<iframe src="//player.vimeo.com/video/38584262"> </iframe>
-				</div>
-				 <script>
-						$(document).ready(function() {
-						$('.popup-with-zoom-anim').magnificPopup({
-							type: 'inline',
-							fixedContentPos: false,
-							fixedBgPos: true,
-							overflowY: 'auto',
-							closeBtnInside: true,
-							preloader: false,
-							midClick: true,
-							removalDelay: 300,
-							mainClass: 'my-mfp-zoom-in'
-						});
-
-						});
-				</script>
-			<!----//fea-video---->
 <!--/about-->
-<div class="details">
-		<div class="container">
-			<div class="bottom-grid">
-				<div class="col-md-6 bottom-grid-left">
-					<h3>Education</h3>
-					<div class="grids">
-						<div class="year text-center">
-							<h5>2015</h5>
-						</div>
-						<div class="qualification">
-							<h4>Masters in Multimedia Arts</h4>
-							<p>National College of Arts</p>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="grids">
-						<div class="year text-center">
-							<h5>2014</h5>
-						</div>
-						<div class="qualification">
-							<h4>Diploma in Design</h4>
-							<p>Arena Multimedia</p>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-				</div>
-				<div class="col-md-6 bottom-grid-right">
-					<h3>Awards</h3>
-					<div class="grids">
-						<div class="year year2 text-center">
-							<h5>2015</h5>
-						</div>
-						<div class="qualification">
-							<h4>Special Performance</h4>
-							<p>i2c Inc</p>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="grids">
-						<div class="year year2 text-center">
-							<h5>2014</h5>
-						</div>
-						<div class="qualification">
-							<h4>Special Performance</h4>
-							<p>i2c Inc</p>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-	</div>
 <!--skills-->
 <div class="skills" id="skills">
 	<div class="container">
@@ -196,7 +139,7 @@
 								<span class="sr-only">80% Complete</span>
 							  </div>
 							</div>
-						<h4>Css</h4>
+						<h4>CSS</h4>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
 							<span class="sr-only">60% Complete</span>
@@ -204,17 +147,34 @@
 						</div>
 						<h4>Js</h4>
 						<div class="progress">
-						  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-							<span class="sr-only">40% Complete</span>
-						  </div>
-						</div>
-						<h4>Php</h4><h4>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+						  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
 							<span class="sr-only">20% Complete</span>
 						  </div>
 						</div>
-						</h4>
+						<h4>PHP</h4>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+							<span class="sr-only">40% Complete</span>
+						  </div>
+						</div>
+                        <h4>Corel Draw</h4>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+							<span class="sr-only">40% Complete</span>
+						  </div>
+						</div>
+                        <h4>Photoshop</h4>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+							<span class="sr-only">40% Complete</span>
+						  </div>
+						</div>
+                        <h4>Adobe After-Effects</h4>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+							<span class="sr-only">40% Complete</span>
+						  </div>
+						</div>
 			</div>
 		</div>
 	</div>
@@ -256,6 +216,16 @@
 						</div>
 					</a>
 				</div>
+				<div class="col-md-4 galry-grids moments-bottom">
+					<a class="b-link-stripe b-animate-go" href="images/img11.jpg">
+						<img src="images/img11.jpg" class="img-responsive" alt="">
+						<div class="b-wrapper">
+							<span class="b-animate b-from-left b-delay03 ">
+								<img class="img-responsive" src="images/e.png" alt=""/>
+							</span>
+						</div>
+					</a>
+				</div>
 				<div class="clearfix"> </div>
 			</div>
 			</div>
@@ -276,10 +246,19 @@
 					<li>Obafemi Awolowo University, </li>
 					<li>Ile-Ife, Osun State </li>
 					<li>Nigeria.</li>
-					<li>+234 902 4135 348</li>
-					<li><a href="mailto:odumz20@gmail.com">Odumz20@mail.com</a></li>
 				</ul>
-			</div>
+            <div class="footer-bottom-left">
+                <div class="social">
+                    <ul class="fa-ul fa-lg">
+                     <li><a href="tel:+2349054556936"><i class="fa fa-phone"></i></a></li>
+                     <li><a href="mailto:odumz20@gmail.com?Subject=Hello%20again"><i class="fa fa-envelope"></i></a></li>
+                     <li><a href="http://facebook.com/abiodun.odumosu"><i class="fa fa-facebook"></i></a></li>
+                     <li><a href="http://twitter.com/abiodunodumosu"><i class="fa fa-twitter"></i></a></li>
+                     <li><a href="http://instagram.com/bheyordun"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 			<div class="col-md-7 contact-right">
 				<h3>Drop me a line</h3>
 				<div class="stripb"> </div>
@@ -298,7 +277,7 @@
 <div class="footer">
 	<div class="copy">
 		<div class="container">
-		<p>Copyrights &copy; 2015 Odumz. All rights reserved</p>
+		<p>Copyrights &copy; 2015 Odumosu Oluwashina. All rights reserved</p>
    </div>
 </div>
    <script type="text/javascript">

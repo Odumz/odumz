@@ -1,0 +1,23 @@
+.about-right-grid img{
+	width:100%;
+}
+.about-right-grid img {
+	    width: 48%;
+	    float: left;
+	}
+.about-right-grid img {
+	    width: 48%;
+	    float: left;
+	}
+.about-right-grid img {
+	    width: 100%;
+	    float: none;
+	    margin-top: 16px;
+	}
+.about-right-grid {
+	    padding: 0;
+        float: right;
+        max-width: 48%;
+	}
+
+I am a versatile, hands-on developer with a project history of over 10 years, working from concept to delivery. Conversant in a range of technologies - most notably .NET and SQL - I follow the industry trends with considerable dedication. My approach is methodical yet creative, and I seek to code to the highest possible standard. A confident communicator, I am comfortable working either independently or as part of a team.

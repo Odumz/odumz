@@ -262,11 +262,12 @@
 			<div class="col-md-7 contact-right">
 				<h3>Drop me a line</h3>
 				<div class="stripb"> </div>
-				<form>
-					<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
-					<input type="text" value="E-mail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail';}" required="">
-					<textarea type="text" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}" required="">Message</textarea>
-					<input type="submit" value="SEND">
+				<formaction="https://postmail.invotes.com/send" method="post" id="email_form">
+					<input type="text" name="extra_name" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required=""/>
+					<input type="text" name="extra_email" value="E-mail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail';}" required=""/>
+					<textarea type="text" name="text" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}" required="">Message</textarea>
+					<input type="hidden" name="access_token" value="61w5atmlx9ru4acl83c8l86p" />
+					<input type="submit" value="SEND"/>
 				</form>
 			</div>
 			<div class="clearfix"> </div>

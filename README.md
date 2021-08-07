@@ -6,7 +6,7 @@
 
 - 😊 I'm very passionate about technology, charity, education, music, and sport
 
-- 👨🏽‍🏭 I'm currently working on an inventory digital solution that will improve profitability of investors through well-detailed analysis of trends and trading 
+- 👨🏽‍🏭 I'm currently working on an inventory digital solution that will improve profitability of investors through well-detailed analysis of stock trends and trading 
      history
 
 - 💬 Ask me about web design, web application development, product management, infrastructure as a service

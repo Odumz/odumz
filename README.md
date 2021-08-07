@@ -10,4 +10,4 @@
 
 🌱 I'm currently learning how to write smart contracts with Solidity
 
-📡 You can reach me via [oluwashinaodumosu@gmail.com](oluwashinaodumosu@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/odumz/)
+📡 You can reach me via [oluwashinaodumosu@gmail.com](mailto:oluwashinaodumosu@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/odumz/)

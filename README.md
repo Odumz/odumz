@@ -6,8 +6,7 @@
 
 - 😊 I'm very passionate about technology, charity, education, music, and sport
 
-- 👨🏽‍🏭 I'm currently working on an inventory digital solution that will improve profitability of investors through well-detailed analysis of stock trends and trading 
-     history
+- 👨🏽‍🏭 I'm currently collaborating on an inventory digital solution that will improve profitability of investors through well-detailed analysis of stock trends and trading history. I'm also building a [personal blog]() and [website](https://www.figma.com/file/lyF4xRPEopCoebxYuOqgqE/0dumz-Portfolio?node-id=0%3A1). 
 
 - 💬 Ask me about web design, web application development, product management, infrastructure as a service
 
@@ -16,3 +15,5 @@
 - 🤝🏽 I’m looking to collaborate on nodejs, vuejs, and laravel projects
 
 - 📡 You can reach me via [oluwashinaodumosu@gmail.com](mailto:oluwashinaodumosu@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/odumz/)
+
+<!-- - 🤡 Fun fact: I learnt how to swim when I almost  -->

@@ -10,6 +10,8 @@
 
 - 💬 Ask me about web design, web application development, product management, infrastructure as a service
 
+- 🛠️ Tools I use: nodejs, laravel, vuejs, solidity, aws, azure, gcp, tailwindcss, bootstrap, sass, figma, wordpress, git
+
 - 🌱 I'm currently learning how to write smart contracts with Solidity and the latest concepts introduced in Vue3
 
 - 🤝🏽 I’m looking to collaborate on nodejs, vuejs, and laravel projects

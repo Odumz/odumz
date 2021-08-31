@@ -1,13 +1,13 @@
 <template>
-  <div class="flex theme-swiss">
-    <div class="hidden lg:block side ">
+  <div class="flex">
+    <div class="hidden lg:block side">
       <sidebar />
     </div>
-    <div class="content">
-      <menu />
-      <hero />
+    <div class="content mb-30 bg-white bg-opacity-5">
+      <!-- <nuxt-logo /> -->
+      <nav-menu />
+      <hero class="sm:pt-16 pt-6 pb-16" />
       <testimonials />
-      <menu />
       <portfolio />
     </div>
   </div>
@@ -32,7 +32,7 @@ export default {
             "A software engineer helping businesses get more clients with their web or mobile applications. If you're interested in helping your clients live happier by using your platform, I'd love to help you grow your business. Odumosu Oluwashina"
         },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: 'https://afaraseun.com/' },
+        { property: 'og:url', content: 'https://odumz.com/' },
         {
           name: 'keywords',
           content:
@@ -47,18 +47,13 @@ export default {
 <style scoped>
   .side {
   flex: 3;
-  height: 100vh;
-  color: white;
-  background-color: black;
+  height: calc(100% - 40px);
   overflow: scroll;
-  line-height: 300px;
 }
 
 .content {
-  flex: 10;
-  height: 100vh;
-  background-color: pink;
+  flex: 11;
+  height: 300vh;
   overflow: scroll;
-  line-height: 300px;
 }
 </style>

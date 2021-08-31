@@ -7,7 +7,7 @@
             <img src="https://randomuser.me/api/portraits/men/15.jpg" alt="">
           </div>
         </div>
-        <div class="w-full mb-10">
+        <div class="w-full pb-1">
           <div class="text-3xl text-skin-inverted text-left leading-tight h-3">
             “
           </div>
@@ -19,7 +19,7 @@
           </div>
         </div>
         <div class="w-full">
-          <p class="text-md text-skin-inverted font-bold text-center">
+          <p class="text-base text-skin-inverted font-bold text-center">
             Scott Windon
           </p>
           <p class="text-xs text-gray-500 text-center">

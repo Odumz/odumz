@@ -1,0 +1,91 @@
+/* @import */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --color-text-base: 255, 255, 255;
+        --color-text-muted: 255, 206, 190;
+        --color-text-inverted: 36, 12, 4;
+        --color-fill: 36, 12, 4;
+        --color-fill-secondary: 252, 209, 3;
+        --color-fill-tertiary: 136, 212, 220;
+        --color-button-accent: 255, 255, 255;
+        --color-button-accent-hover: 238, 242, 255;
+        --color-button-muted: 99, 102, 241;
+    }
+
+    .theme-blue {
+      --color-text-base: 255, 255, 255;
+      --color-text-muted: 199, 210, 254;
+      --color-text-inverted: 79, 70, 229;
+      --color-fill: 67, 56, 202;
+      --color-fill-secondary: 252, 209, 3;
+      --color-fill-tertiary: 136, 212, 220;
+      --color-button-accent: 255, 255, 255;
+      --color-button-accent-hover: 238, 242, 255;
+      --color-button-muted: 99, 102, 241;
+    }
+
+    .theme-swiss {
+        --color-text-base: 255, 255, 255;
+        --color-text-muted: 254, 202, 202;
+        --color-text-inverted: 220, 38, 38;
+        --color-fill: 185, 28, 28;
+        --color-fill-secondary: 252, 209, 3;
+        --color-fill-tertiary: 136, 212, 220;
+        --color-button-accent: 255, 255, 255;
+        --color-button-accent-hover: 254, 242, 242;
+        --color-button-muted: 239, 68 ,68;
+    }
+
+    .theme-neon {
+        --color-text-base: 17, 24, 2;
+        --color-text-muted: 47, 67, 6;
+        --color-text-inverted: 235, 250, 204;
+        --color-fill: 179, 255, 23;
+        --color-fill-secondary: 252, 209, 3;
+        --color-fill-tertiary: 136, 212, 220;
+        --color-button-accent: 36, 52, 3;
+        --color-button-accent-hover: 55, 79, 5;
+        --color-button-muted: 212, 255, 122;
+    }
+
+    .danger {
+        --color-base: 239, 68, 68;
+        --color-muted: 254, 226, 226;
+        --color-text: 188, 28, 28;
+        --color-text-muted: 239, 68, 68;
+        --color-base-darker: 188, 28, 28;
+        --color-base-dark: 220, 38, 38;
+    }
+
+    .info {
+        --color-base: 59, 130, 246;
+        --color-muted: 219, 234, 254;
+        --color-text: 29, 78, 216;
+        --color-text-muted: 59, 130, 246;
+        --color-base-darker: 29, 78, 216;
+        --color-base-dark: 37, 99, 235;
+    }
+
+    .success {
+        --color-base: 16, 185, 129;
+        --color-muted: 209, 250, 229;
+        --color-text: 6, 78, 59;
+        --color-text-muted: 16, 185, 129;
+        --color-base-darker: 6, 78, 59;
+        --color-base-dark: 5, 150, 105;
+    }
+
+    .warning {
+        --color-base: 245, 158, 11;
+        --color-muted: 254, 243, 199;
+        --color-text: 180, 83, 9;
+        --color-text-muted: 245, 158, 11;
+        --color-base-darker: 180, 83, 9;
+        --color-base-dark: 217, 119, 6;
+    }
+}
+

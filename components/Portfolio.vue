@@ -6,7 +6,7 @@
           portfolio
         </h2>
         <p class="absolute uppercase items-center text-skin-base md:py-5 py-2 text-xl opacity-100">
-          Works I've completed
+          my contributions
         </p>
       </div>
     </div>

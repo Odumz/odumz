@@ -1,0 +1,67 @@
+{
+  "testimonials": [
+    {
+      "title": "OSC Fashion 🛒",
+      "icon": "something",
+      "company": "https://oscfashion.com",
+      "achievement": ["Business reviews/feedback collection web application - WordPress"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "title": "Weather App 🌤️",
+      "icon": "something",
+      "company": "https://vue-weather-app-git-main-0dumz.vercel.app",
+      "achievement": ["Real estate investment web application script - VueJS"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "title": "Meeting Interface 🤝🏽",
+      "icon": "something",
+      "company": "#",
+      "achievement": ["Financial technology savings application for PFI Capital Limited - Laravel PHP + VueJS"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "title": "Feeding Gate Foundation 🤲🏽",
+      "icon": "something",
+      "company": "https://feedinggate.cleanhoodfacilities.com/",
+      "achievement": ["The new dangote website - WordPress"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "title": "Landing UI Mockup 💻",
+      "icon": "something",
+      "company": "https://rubylena.github.io/Team-Odin/",
+      "achievement": ["Quick Loan application built with - HTML5 + CSS3"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "title": "Todo 📝",
+      "icon": "something",
+      "company": "https://todo-app-react-roan.vercel.app",
+      "achievement": ["An online Q&A forum web application - NodeJS + React"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "title": "Vue Template 🎞️",
+      "icon": "something",
+      "company": "#",
+      "achievement": ["Write letters you can share, change fonts and background. (Opensource, VueJS)"],
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    }
+  ]
+}

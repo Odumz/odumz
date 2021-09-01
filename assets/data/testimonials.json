@@ -1,0 +1,39 @@
+{
+  "testimonials": [
+    {
+      "client": "OSC Fashion 🛒",
+      "company": "https://oscfashion.com",
+      "desc": "Business reviews/feedback collection web application - WordPress"
+    },
+    {
+      "client": "Weather App 🌤️",
+      "company": "https://vue-weather-app-git-main-0dumz.vercel.app",
+      "desc": "Real estate investment web application script - VueJS"
+    },
+    {
+      "client": "Meeting Interface 🤝🏽",
+      "company": "#",
+      "desc": "Financial technology savings application for PFI Capital Limited - Laravel PHP + VueJS"
+    },
+    {
+      "client": "Feeding Gate Foundation 🤲🏽",
+      "company": "https://feedinggate.cleanhoodfacilities.com/",
+      "desc": "The new dangote website - WordPress"
+    },
+    {
+      "client": "Landing UI Mockup 💻",
+      "company": "https://rubylena.github.io/Team-Odin/",
+      "desc": "Quick Loan application built with - HTML5 + CSS3"
+    },
+    {
+      "client": "Todo 📝",
+      "company": "https://todo-app-react-roan.vercel.app",
+      "desc": "An online Q&A forum web application - NodeJS + React"
+    },
+    {
+      "client": "Vue Template 🎞️",
+      "company": "#",
+      "desc": "Write letters you can share, change fonts and background. (Opensource, VueJS)"
+    }
+  ]
+}

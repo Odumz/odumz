@@ -4,27 +4,27 @@
       <div class="flex justify-around py-4">
         <div class="flex items-center space-x-4">
           <a
-            v-scroll-to="'#services'"
+            href="'#services'"
             class="text-gray-600 ml-6 hover:text-blue-500 cursor-pointer"
           >Services</a>
           <a
-            v-scroll-to="'#works'"
+            href="'#works'"
             class="text-gray-600 ml-4 hover:text-blue-500 cursor-pointer"
           >Portfolio</a>
           <a
-            v-scroll-to="'#testimonials'"
+            href="'#testimonials'"
             class="text-gray-600 ml-4 hover:text-blue-500 cursor-pointer"
           >Testimonials</a>
           <a
-            v-scroll-to="'#achievement'"
+            href="'#achievement'"
             class="text-gray-600 ml-4 hover:text-blue-500 cursor-pointer"
           >Achievements</a>
           <a
-            v-scroll-to="'#blog'"
+            href="'#blog'"
             class="text-gray-600 ml-4 hover:text-blue-500 cursor-pointer"
           >Blog</a>
           <a
-            v-scroll-to="'#collaborate'"
+            href="'#collaborate'"
             class="text-gray-600 ml-4 hover:text-blue-500 cursor-pointer"
           >Contact Me</a>
         <!-- <a

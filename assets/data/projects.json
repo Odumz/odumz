@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "OSC Fashion 🛒",
+      "link": "https://oscfashion.com",
+      "desc": "Business reviews/feedback collection web application - WordPress",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630487993/projects/osc-fashion_ulw06j.png"
+    },
+    {
+      "name": "Weather App 🌤️",
+      "link": "https://vue-weather-app-git-main-0dumz.vercel.app",
+      "desc": "Real estate investment web application script - VueJS",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630487994/projects/weather-app_gbcgra.png"
+    },
+    {
+      "name": "Meeting Interface 🤝🏽",
+      "link": "#",
+      "desc": "Financial technology savings application for PFI Capital Limited - Laravel PHP + VueJS",
+      "image": ""
+    },
+    {
+      "name": "Feeding Gate Foundation 🤲🏽",
+      "link": "https://feedinggate.cleanhoodfacilities.com/",
+      "desc": "The new dangote website - WordPress",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630487994/projects/feedinggate_pzlqwp.png"
+    },
+    {
+      "name": "Landing UI Mockup 💻",
+      "link": "https://rubylena.github.io/Team-Odin/",
+      "desc": "Quick Loan application built with - HTML5 + CSS3",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630487990/projects/zuri-landing_l8yvfe.png"
+    },
+    {
+      "name": "Todo 📝",
+      "link": "https://todo-app-react-roan.vercel.app",
+      "desc": "An online Q&A forum web application - NodeJS + React",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630487991/projects/todo-app_zoagif.png"
+    },
+    {
+      "name": "Vue Template 🎞️",
+      "link": "#",
+      "desc": "Write letters you can share, change fonts and background. (Opensource, VueJS)",
+      "image": ""
+    }
+  ]
+}

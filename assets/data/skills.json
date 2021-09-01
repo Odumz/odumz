@@ -1,0 +1,104 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "Tailwind CSS",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/tailwind_vhtuof.png"
+    },
+    {
+      "id": 2,
+      "name": "Nuxt JS",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/nuxt_1_azwbhm.png"
+    },
+    {
+      "id": 3,
+      "name": "Node JS",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/nodejs_rsl9yj.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mongo DB",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/mongodb_hiefaa.png"
+    },
+    {
+      "id": 5,
+      "name": "npm",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/npm_la55td.png"
+    },
+    {
+      "id": 6,
+      "name": "Git",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/github_aqavac.png"
+    },
+    {
+      "id": 7,
+      "name": "Vue JS",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/vue_kk1tru.png"
+    },
+    {
+      "id": 8,
+      "name": "SEO",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/seo_kxekzh.png"
+    },
+    {
+      "id": 9,
+      "name": "WordPress",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/wordpress_vpcbao.png"
+    },
+    {
+      "id": 11,
+      "name": "HTML 5",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/html_ccyirb.png"
+    },
+    {
+      "id": 12,
+      "name": "Linux",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/linux_ete9la.png"
+    },
+    {
+      "id": 13,
+      "name": "CSS 3",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/css_fegvkh.png"
+    },
+    {
+      "id": 14,
+      "name": "AWS",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/aws_aeaeq1.png"
+    },
+    {
+      "id": 15,
+      "name": "Docker",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/docker_gvmsqb.png"
+    },
+    {
+      "id": 16,
+      "name": "Photoshop",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484919/skills/photoshop_txkmu2.png"
+    },
+    {
+      "id": 17,
+      "name": "Mocha",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/mocha_uz0mha.png"
+    },
+    {
+      "id": 18,
+      "name": "Laravel",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630484918/skills/laravel_u7ht50.png"
+    },
+    {
+      "id": 19,
+      "name": "Bootstrap",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630485876/skills/bootstrap_e10hbu.png"
+    },
+    {
+      "id": 20,
+      "name": "JavaScript",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630485876/skills/javascript_oxkqaj.png"
+    },
+    {
+      "id": 21,
+      "name": "Vitejs",
+      "image": "https://res.cloudinary.com/odumz/image/upload/v1630485876/skills/vite_ykagvv.svg"
+    }
+  ]
+}

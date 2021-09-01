@@ -1,0 +1,53 @@
+{
+  "testimonials": [
+    {
+      "degree": "OSC Fashion 🛒",
+      "institution": "https://oscfashion.com",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "degree": "Weather App 🌤️",
+      "institution": "https://vue-weather-app-git-main-0dumz.vercel.app",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "degree": "Meeting Interface 🤝🏽",
+      "institution": "#",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "degree": "Feeding Gate Foundation 🤲🏽",
+      "institution": "https://feedinggate.cleanhoodfacilities.com/",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "degree": "Landing UI Mockup 💻",
+      "institution": "https://rubylena.github.io/Team-Odin/",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "degree": "Todo 📝",
+      "institution": "https://todo-app-react-roan.vercel.app",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    },
+    {
+      "degree": "Vue Template 🎞️",
+      "institution": "#",
+      "location": "Lagos, Nigeria",
+      "date-from": "date",
+      "date-to": "date"
+    }
+  ]
+}

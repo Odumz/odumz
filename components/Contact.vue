@@ -10,11 +10,39 @@
         </p>
       </div>
     </div>
-    <div class="relative flex items-top justify-center min-h-screen sm:items-center sm:pt-0">
-      <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-        <div class="mt-8 overflow-hidden">
+    <div class="sm:mx-8">
+      <div class="relative bg-skin-fill dark:bg-gray-800 max-w-5xl mx-auto overflow-hidden sm:rounded-sm">
+        <img
+          class="absolute inset-0 h-full w-full object-cover opacity-30"
+          src="https://images.unsplash.com/photo-1613217784112-e0e197be6a0b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWd1fHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80&sat=-100"
+          alt="People working"
+        >
+        <div class="absolute inset-0 bg-gradient-to-br from-skin-hue via-skin-hue to-transparent opacity-85" />
+        <div class="flex justify-center">
+          <div class="relative mx-auto py-16 px-4 sm:py-20 sm:px-6 lg:px-8">
+            <h2 class="text-5xl sm:justify-center font-exrabold text-skin-base dark:text-gray-800 sm:tex-4xl">
+              <span>Have a </span>
+              <span class="text-skin-base-tertiary">project </span>
+              <span>in</span>
+              <span class="text-skin-base-secondary">mind</span>?
+            </h2>
+            <p class="mt-4 text-center text-skin-base text-lg leading-6 dark:text-gray-400">
+              Let's have a chat about your goals
+            </p>
+            <div class="mt-10 max-w-sm mx-auto sm:max-w-none flex justify-center">
+              <div class="space-y-4 sm:space-y-0 sm:mx-auto  sm:gap-5">
+                <a href="#" class="text-skin-inverted uppercase dark:bg-gray-800 dark:hover:bg-opacity-90 bg-skin-fill-secondary hover:bg-skin-button-accent-hover flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-sm shadow-sm sm:px-8">Let's Start</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="relative flex items-top justify-center sm:items-center">
+      <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+        <div class="mt-6 bg-skin-fill-tertiary overflow-hidden">
           <div class="grid grid-cols-1 md:grid-cols-2">
-            <div class="p-6 mr-2 bg-gray-100 dark:bg-gray-800 sm:rounded-lg">
+            <div class="p-6 mr-2 bg-gray-100 dark:bg-gray-800 sm:rounded-sm">
               <h1 class="text-4xl sm:text-5xl text-gray-800 dark:text-white font-extrabold tracking-tight">
                 Get in touch
               </h1>
@@ -79,17 +107,17 @@
             <form class="p-6 flex flex-col justify-center">
               <div class="flex flex-col">
                 <label for="name" class="hidden">Full Name</label>
-                <input id="name" type="name" name="name" placeholder="Full Name" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none">
+                <input id="name" type="name" name="name" placeholder="Full Name" class="w-100 mt-2 py-3 px-3 rounded-sm bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none">
               </div>
 
               <div class="flex flex-col mt-2">
                 <label for="email" class="hidden">Email</label>
-                <input id="email" type="email" name="email" placeholder="Email" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none">
+                <input id="email" type="email" name="email" placeholder="Email" class="w-100 mt-2 py-3 px-3 rounded-sm bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none">
               </div>
 
               <div class="flex flex-col mt-2">
                 <label for="tel" class="hidden">Number</label>
-                <input id="tel" type="tel" name="tel" placeholder="Telephone Number" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none">
+                <input id="tel" type="tel" name="tel" placeholder="Telephone Number" class="w-100 mt-2 py-3 px-3 rounded-sm bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-indigo-500 focus:outline-none">
               </div>
 
               <btn name="simple" class="py-3 mt-3 flex items-start">

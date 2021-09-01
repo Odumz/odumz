@@ -37,6 +37,58 @@
           </p>
         </div>
       </div>
+      <div class="w-full mx-auto rounded-lg bg-white shadow-lg px-5 pt-5 pb-10 text-gray-800" style="max-width: 500px">
+        <div class="w-full pt-1 pb-5">
+          <div class="overflow-hidden rounded-full w-20 h-20 -mt-16 mx-auto shadow-lg">
+            <img src="https://randomuser.me/api/portraits/men/15.jpg" alt="">
+          </div>
+        </div>
+        <div class="w-full pb-1">
+          <div class="text-3xl text-skin-inverted text-left leading-tight h-3">
+            “
+          </div>
+          <p class="text-sm text-gray-600 text-center px-5">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam obcaecati laudantium recusandae, debitis eum voluptatem ad, illo voluptatibus temporibus odio provident.
+          </p>
+          <div class="text-3xl text-skin-inverted text-right leading-tight h-3 -mt-3">
+            ”
+          </div>
+        </div>
+        <div class="w-full">
+          <p class="text-base text-skin-inverted font-bold text-center">
+            Scott Windon
+          </p>
+          <p class="text-xs text-gray-500 text-center">
+            @scott.windon
+          </p>
+        </div>
+      </div>
+      <div class="w-full mx-auto rounded-lg bg-white shadow-lg px-5 pt-5 pb-10 text-gray-800" style="max-width: 500px">
+        <div class="w-full pt-1 pb-5">
+          <div class="overflow-hidden rounded-full w-20 h-20 -mt-16 mx-auto shadow-lg">
+            <img src="https://randomuser.me/api/portraits/men/15.jpg" alt="">
+          </div>
+        </div>
+        <div class="w-full pb-1">
+          <div class="text-3xl text-skin-inverted text-left leading-tight h-3">
+            “
+          </div>
+          <p class="text-sm text-gray-600 text-center px-5">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam obcaecati laudantium recusandae, debitis eum voluptatem ad, illo voluptatibus temporibus odio provident.
+          </p>
+          <div class="text-3xl text-skin-inverted text-right leading-tight h-3 -mt-3">
+            ”
+          </div>
+        </div>
+        <div class="w-full">
+          <p class="text-base text-skin-inverted font-bold text-center">
+            Scott Windon
+          </p>
+          <p class="text-xs text-gray-500 text-center">
+            @scott.windon
+          </p>
+        </div>
+      </div>
     </div>
 
     <!-- BUY ME A BEER AND HELP SUPPORT OPEN-SOURCE RESOURCES -->

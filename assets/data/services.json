@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "name": "Web Development",
+      "icon": "web-dev",
+      "desc": "Business reviews/feedback collection web application - WordPress",
+      "link": "to/web-development"
+    },
+    {
+      "name": "UI/UX Design",
+      "icon": "design",
+      "desc": "Real estate investment web application script - VueJS",
+      "link": "to/ui-ux-design"
+    },
+    {
+      "name": "IT Consultancy",
+      "icon": "consulting",
+      "desc": "Financial technology savings application for PFI Capital Limited - Laravel PHP + VueJS",
+      "link": "to/it-consulting"
+    }
+  ]
+}

@@ -10,6 +10,9 @@
       <services class="sm:pt-16 pt-6 pb-10" />
       <portfolio class="sm:pt-16 pt-6 pb-10" />
       <testimonials class="sm:pt-16 pt-6 pb-10" />
+      <achievements class="sm:pt-16 pt-6 pb-10" />
+      <blogs class="sm:pt-16 pt-6 pb-10" />
+      <contact class="sm:pt-16 pt-6 pb-10" />
     </div>
   </div>
 </template>

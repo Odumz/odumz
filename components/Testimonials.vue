@@ -1,5 +1,15 @@
 <template>
   <div>
+    <div class="title relative">
+      <div class="flex justify-center mx-auto">
+        <h2 class="md:text-6xl text-4xl text-skin-base-secondary sm:justify-center uppercase pb-12 tracking-new-widest opacity-5">
+          testimonials
+        </h2>
+        <p class="absolute items-center uppercase text-skin-base md:py-5 py-2 text-xl opacity-100">
+          Client Feedback
+        </p>
+      </div>
+    </div>
     <div class="flex items-center justify-center px-5 py-5">
       <div class="w-full mx-auto rounded-lg bg-white shadow-lg px-5 pt-5 pb-10 text-gray-800" style="max-width: 500px">
         <div class="w-full pt-1 pb-5">
@@ -42,4 +52,8 @@
 
 <style scoped>
     @import url(https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css);
+
+  .tracking-new-widest {
+    letter-spacing: 0.5em;
+  }
 </style>

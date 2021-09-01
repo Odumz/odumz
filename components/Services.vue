@@ -5,7 +5,7 @@
         <h2 class="md:text-6xl text-4xl text-skin-base-secondary sm:justify-center uppercase pb-12 tracking-new-widest opacity-5">
           services
         </h2>
-        <p class="absolute items-center text-skin-base md:py-5 py-2 text-xl opacity-100">
+        <p class="absolute uppercase items-center text-skin-base md:py-5 py-2 text-xl opacity-100">
           What I offer
         </p>
       </div>

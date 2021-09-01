@@ -1,8 +1,17 @@
 <template>
   <div>
-    <!-- component -->
-    <div class="bg-gray-100 m-auto w-96 h-64 mt-5" style="background-image:url('https://images.pexels.com/photos/3738673/pexels-photo-3738673.jpeg?auto=compress&cs=tinysrgb&h=350'); background-position: center; background-repeat: no-repeat; background-size: cover;" @mouseleave="doSomething" @mouseover="doSomething">
-      <div v-show="hover" class="flex flex-row items-end h-full w-full">
+    <div class="title relative">
+      <div class="flex justify-center mx-auto">
+        <h2 class="md:text-6xl text-4xl text-skin-base-secondary sm:justify-center uppercase pb-12 tracking-new-widest opacity-5">
+          portfolio
+        </h2>
+        <p class="absolute items-center text-skin-base md:py-5 py-2 text-xl opacity-100">
+          Works I've completed
+        </p>
+      </div>
+    </div>
+    <div class="bg-gray-100 m-auto w-96 h-64 mt-5" style="background-image:url('https://images.pexels.com/photos/3738673/pexels-photo-3738673.jpeg?auto=compress&cs=tinysrgb&h=350'); background-position: center; background-repeat: no-repeat; background-size: cover;" @mouseleave="hideDetails()" @mouseover="showDetails">
+      <div v-if="hover" class="flex flex-row items-end h-full w-full">
         <div class="flex flex-col w-full pb-3 pt-10 px-3 bg-gradient-to-t from-black text-gray-200">
           <h3 class="text-base font-bold leading-5 uppercase">
             Lorem, ipsum dolor sit amet elit foure consectetur adipisicing.
@@ -47,17 +56,28 @@
 </template>
 
 <script>
-export default {
-  data () {
-    return {
-      hover: false
+// import * as actionTypes from '../store/constants/actions'
+// import { mapMutations } from 'vuex'
 
+export default {
+  computed: {
+    hover () {
+      return this.$store.state.portfolio.hover
     }
   },
   methods: {
-    doSomething () {
-      this.hover = !this.hover
+    showDetails () {
+      this.$store.commit('portfolio/changeHover')
+    },
+    hideDetails () {
+      this.$store.commit('portfolio/changeHover')
     }
   }
 }
 </script>
+
+<style scoped>
+  .tracking-new-widest {
+    letter-spacing: 0.5em;
+  }
+</style>

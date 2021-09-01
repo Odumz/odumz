@@ -30,6 +30,9 @@ module.exports = {
       textColor: {
         skin: {
           base: withOpacity('--color-text-base'),
+          fill: withOpacity('--color-fill'),
+          'base-secondary': withOpacity('--color-fill-secondary'),
+          'base-tertiary': withOpacity('--color-fill-tertiary'),
           muted: withOpacity('--color-text-muted'),
           inverted: withOpacity('--color-text-inverted')
         },
@@ -41,6 +44,8 @@ module.exports = {
       backgroundColor: {
         skin: {
           fill: withOpacity('--color-fill'),
+          'fill-secondary': withOpacity('--color-fill-secondary'),
+          'fill-tertiary': withOpacity('--color-fill-tertiary'),
           'button-accent': withOpacity('--color-button-accent'),
           'button-accent-hover': withOpacity('--color-button-accent-hover'),
           'button-muted': withOpacity('--color-button-muted')
@@ -60,6 +65,8 @@ module.exports = {
       borderColor: {
         skin: {
           fill: withOpacity('--color-fill'),
+          'fill-secondary': withOpacity('--color-fill-secondary'),
+          'fill-tertiary': withOpacity('--color-fill-tertiary'),
           accent: withOpacity('--color-button-accent'),
           'accent-hover': withOpacity('--color-button-accent-hover'),
           muted: withOpacity('--color-button-muted')

@@ -3,7 +3,7 @@
     {
       "name": "OSC Fashion 🛒",
       "link": "https://oscfashion.com",
-      "desc": "Business reviews/feedback collection web application - WordPress",
+      "desc": "Business reviews/feedback collection web application - WordPress + Moodle",
       "image": "https://res.cloudinary.com/odumz/image/upload/v1630487993/projects/osc-fashion_ulw06j.png"
     },
     {
@@ -39,7 +39,31 @@
     {
       "name": "Vue Template 🎞️",
       "link": "#",
-      "desc": "Write letters you can share, change fonts and background. (Opensource, VueJS)",
+      "desc": "A vue template. (Opensource, VueJS)",
+      "image": ""
+    },
+    {
+      "name": "Shopeefy 🛒",
+      "link": "#",
+      "desc": "An ecommerce web application - NodeJS + React",
+      "image": ""
+    },
+    {
+      "name": "Makala 📰",
+      "link": "#",
+      "desc": "A Personal blogging site - Vite + Vue3 + Tailwind + Nodejs",
+      "image": ""
+    },
+    {
+      "name": "Picha 📷",
+      "link": "#",
+      "desc": "A personal gallery - NuxtJs",
+      "image": ""
+    },
+    {
+      "name": "MeezTreats 🎂",
+      "link": "#",
+      "desc": "A confectionery business/ecommerce website - NuxtJs",
       "image": ""
     }
   ]

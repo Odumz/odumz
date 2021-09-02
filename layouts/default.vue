@@ -9,6 +9,7 @@ html {
   /* background: #240C04; */
   scroll-behavior: smooth;
 }
+
 * {
   margin: 0;
   padding: 0;

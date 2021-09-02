@@ -6,19 +6,22 @@
     <div class="content mb-30 bg-white bg-opacity-5">
       <!-- <nuxt-logo /> -->
       <nav-menu />
-      <hero class="sm:pt-16 pt-6 pb-10" />
-      <services class="sm:pt-16 pt-6 pb-10" />
-      <portfolio class="sm:pt-16 pt-6 pb-10" />
-      <testimonials class="sm:pt-16 pt-6 pb-10" />
-      <achievements class="sm:pt-16 pt-6 pb-10" />
-      <blogs class="sm:pt-16 pt-6 pb-10" />
-      <contact class="sm:pt-16 pt-6 pb-10" />
+      <hero data-aos="fade-up" class="sm:pt-16 pt-6 pb-10" />
+      <services data-aos="fade-left" class="sm:pt-16 pt-6 pb-10" />
+      <portfolio data-aos="fade-down" class="sm:pt-16 pt-6 pb-10" />
+      <testimonials data-aos="fade-right" class="sm:pt-16 pt-6 pb-10" />
+      <achievements data-aos="slide-up" class="sm:pt-16 pt-6 pb-10" />
+      <blogs data-aos="slide-down" class="sm:pt-16 pt-6 pb-10" />
+      <contact data-aos="slide-left" class="sm:pt-16 pt-6 pb-10" />
     </div>
   </div>
 </template>
 
 <script>
+import aosMixin from '~/mixins/aos'
+
 export default {
+  mixins: [aosMixin],
   head () {
     return {
       title: 'Software Engineer',

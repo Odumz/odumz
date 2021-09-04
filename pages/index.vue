@@ -1,10 +1,6 @@
 <template>
-  <div class="flex">
-    <div class="hidden lg:block side">
-      <sidebar />
-    </div>
-    <div class="content mb-30 bg-white bg-opacity-5">
-      <!-- <nuxt-logo /> -->
+  <div class="flex overflow-x-hidden">
+    <div class="mb-30 bg-white bg-opacity-5">
       <nav-menu />
       <hero data-aos="fade-up" class="sm:pt-16 pt-6 pb-10" />
       <services data-aos="fade-left" class="sm:pt-16 pt-6 pb-10" />
@@ -52,15 +48,7 @@ export default {
 </script>
 
 <style scoped>
-  .side {
-  flex: 3;
-  height: calc(100% - 40px);
-  overflow: scroll;
-}
-
-.content {
-  flex: 11;
-  height: 300vh;
-  overflow: scroll;
+* {
+  overflow-x: hidden;
 }
 </style>

@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-skin-fill min-h-screen relative ">
+  <div class="bg-skin-fill min-h-screen relative flex ">
+    <Sidebar />
     <Nuxt />
   </div>
 </template>

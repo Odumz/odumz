@@ -6,7 +6,7 @@
 
 😊 I'm very passionate about technology, charity, education, music, and sport
 
-👨🏽‍🏭 I'm currently collaborating on an inventory digital solution that will improve profitability of investors through well-detailed analysis of stock trends and trading history. I'm also building a [communications app](https://griffin-consults.vercel.app/) and [a UI/UX portfolio](https://barney.vercel.app/).
+👨🏽‍🏭 I'm currently collaborating on an inventory digital solution that will improve profitability of investors through well-detailed analysis of stock trends and trading history. I'm also building a [communications app](https://clicka.vercel.app/) and [a UI/UX portfolio](https://barney.vercel.app/).
 
 💬 Ask me about web design, web application development, product management, infrastructure as a service
 

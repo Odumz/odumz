@@ -6,13 +6,13 @@
 
 😊 I'm very passionate about technology, charity, education, music, and sport
 
-👨🏽‍🏭 I'm currently working on my first decentralized application on the ethereum bloackchain using Vuejs, truffle, web3, and solidity. I'm also building an [invoice app](https://griffin-invoice.vercel.app/) and [a UI/UX portfolio](https://barney.vercel.app/).
+👨🏽‍🏭 I'm currently working on my first decentralized application on the Ethereum blockchain using Vuejs, truffle, web3, and solidity. I'm also building an [invoice app](https://griffin-invoice.vercel.app/) and [a UI/UX portfolio](https://barnabas-inyangsam.netlify.app/).
 
 💬 Ask me about web design, web application development, product management, infrastructure as a service
 
-🛠️ Tools I use: vuejs, nodejs, laravel, solidity, aws, azure, gcp, tailwindcss, bootstrap, sass, figma, wordpress, git
+🛠️ Tools I use: vuejs, nodejs, laravel, solidity, aws, azure, gcp, tailwinds, bootstrap, sass, Figma, WordPress, git
 
-🌱 I'm currently learning how to write smart contracts with Solidity and take advantage the web3 
+🌱 I'm currently learning how to write smart contracts with Solidity and take advantage of the web3 
 
 🤝🏽 I’m looking to collaborate on nodejs, vuejs, and laravel projects
 

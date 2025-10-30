@@ -70,10 +70,15 @@ const shina = {
 - Delivered in just **5 months**
 
 [//]: # (This may be the most platform independent comment)
-[//]: # (### 💳 [Xedla Pay](https://xedla.com)
+
+[//]: # (### 💳 Xedla Pay https://xedla.com)
+
 [//]: # (**Backend Engineer** | Digital Payment Platform)
+
 [//]: # (- Optimized for Nigerian mobile networks with low bandwidth)
+
 [//]: # (- Improved transaction success rates by **50%**)
+
 [//]: # (- Reduced API response times from **3.2s to 1.4s** using Redis)
 
 ### 🎨 [Symphonii Studios](https://symphoniistudios.com)
